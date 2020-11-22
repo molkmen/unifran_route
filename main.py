@@ -8,7 +8,7 @@ def index():
  return '<h1>Hello Word!</h1>'
 
 @app.route('/unifran')
-def index2():
+def index1():
  return '<h2>Universidade de Franca</h2>'
 
 if __name__ == "__main__":
